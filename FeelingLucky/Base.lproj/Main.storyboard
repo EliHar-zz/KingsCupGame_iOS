@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6185.11" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="exr-MK-5kY">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="14A329f" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="exr-MK-5kY">
     <dependencies>
-        <deployment defaultVersion="1808" identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6190.4"/>
+        <deployment defaultVersion="1792" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
     <scenes>
-        <!--Game-->
+        <!--Card Game View Controller - Game-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
                 <viewController title="Game" modalTransitionStyle="crossDissolve" id="vXZ-lx-hvc" customClass="CardGameViewController" sceneMemberID="viewController">
@@ -146,7 +146,7 @@
             </objects>
             <point key="canvasLocation" x="-4398" y="-3336"/>
         </scene>
-        <!--HowToPlay-->
+        <!--How To Play - HowToPlay-->
         <scene sceneID="QlH-0i-ibu">
             <objects>
                 <viewController title="HowToPlay" id="mNE-gD-jwK" customClass="HowToPlay" sceneMemberID="viewController">
@@ -328,7 +328,7 @@
             </objects>
             <point key="canvasLocation" x="-2784" y="-3372"/>
         </scene>
-        <!--Ten-->
+        <!--Rules View Controller - Ten-->
         <scene sceneID="uT9-76-bde">
             <objects>
                 <viewController title="Ten" id="1Sg-Fq-da7" customClass="RulesViewController" sceneMemberID="viewController">
@@ -405,7 +405,7 @@
             </objects>
             <point key="canvasLocation" x="-1099" y="-2522"/>
         </scene>
-        <!--Jack-->
+        <!--Rules View Controller - Jack-->
         <scene sceneID="J9P-uz-4Sr">
             <objects>
                 <viewController title="Jack" id="c11-m8-Ee1" customClass="RulesViewController" sceneMemberID="viewController">
@@ -482,7 +482,7 @@
             </objects>
             <point key="canvasLocation" x="-611" y="-2530"/>
         </scene>
-        <!--Queen-->
+        <!--Rules View Controller - Queen-->
         <scene sceneID="AMI-MP-Yqw">
             <objects>
                 <viewController title="Queen" id="EFU-Xb-9BF" customClass="RulesViewController" sceneMemberID="viewController">
@@ -559,7 +559,7 @@
             </objects>
             <point key="canvasLocation" x="-147" y="-2546"/>
         </scene>
-        <!--King-->
+        <!--Rules View Controller - King-->
         <scene sceneID="hnC-2r-aAD">
             <objects>
                 <viewController title="King" id="pSc-eB-WHW" customClass="RulesViewController" sceneMemberID="viewController">
@@ -636,7 +636,7 @@
             </objects>
             <point key="canvasLocation" x="325" y="-2538"/>
         </scene>
-        <!--Ace-->
+        <!--Rules View Controller - Ace-->
         <scene sceneID="dg8-nw-w8t">
             <objects>
                 <viewController title="Ace" id="9Rf-Ry-8a0" customClass="RulesViewController" sceneMemberID="viewController">
@@ -712,7 +712,7 @@
             </objects>
             <point key="canvasLocation" x="-1091" y="-4642"/>
         </scene>
-        <!--Two-->
+        <!--Rules View Controller - Two-->
         <scene sceneID="MPl-rY-wv0">
             <objects>
                 <viewController title="Two" id="aIK-9M-J50" customClass="RulesViewController" sceneMemberID="viewController">
@@ -789,7 +789,7 @@
             </objects>
             <point key="canvasLocation" x="-651" y="-4642"/>
         </scene>
-        <!--Three-->
+        <!--Rules View Controller - Three-->
         <scene sceneID="2qu-7Y-Gvr">
             <objects>
                 <viewController title="Three" id="SdB-f9-mC2" customClass="RulesViewController" sceneMemberID="viewController">
@@ -866,7 +866,7 @@
             </objects>
             <point key="canvasLocation" x="-147" y="-4650"/>
         </scene>
-        <!--Four-->
+        <!--Rules View Controller - Four-->
         <scene sceneID="Ifj-zd-56O">
             <objects>
                 <viewController title="Four" id="vTz-XB-x2F" customClass="RulesViewController" sceneMemberID="viewController">
@@ -943,7 +943,7 @@
             </objects>
             <point key="canvasLocation" x="-1091" y="-3938"/>
         </scene>
-        <!--Five-->
+        <!--Rules View Controller - Five-->
         <scene sceneID="AU5-Jt-tRJ">
             <objects>
                 <viewController title="Five" id="Abe-eD-2xH" customClass="RulesViewController" sceneMemberID="viewController">
@@ -1020,7 +1020,7 @@
             </objects>
             <point key="canvasLocation" x="-627" y="-3954"/>
         </scene>
-        <!--Six-->
+        <!--Rules View Controller - Six-->
         <scene sceneID="NAF-dc-R9p">
             <objects>
                 <viewController title="Six" id="6C3-pY-fod" customClass="RulesViewController" sceneMemberID="viewController">
@@ -1097,7 +1097,7 @@
             </objects>
             <point key="canvasLocation" x="-131" y="-3946"/>
         </scene>
-        <!--Seven-->
+        <!--Rules View Controller - Seven-->
         <scene sceneID="MGi-aB-vcR">
             <objects>
                 <viewController title="Seven" id="7mM-wm-Kwx" customClass="RulesViewController" sceneMemberID="viewController">
@@ -1174,7 +1174,7 @@
             </objects>
             <point key="canvasLocation" x="-1099" y="-3234"/>
         </scene>
-        <!--Eight-->
+        <!--Rules View Controller - Eight-->
         <scene sceneID="nSD-RV-aFf">
             <objects>
                 <viewController title="Eight" id="Xfg-IO-t5a" customClass="RulesViewController" sceneMemberID="viewController">
@@ -1251,7 +1251,7 @@
             </objects>
             <point key="canvasLocation" x="-619" y="-3242"/>
         </scene>
-        <!--Nine-->
+        <!--Rules View Controller - Nine-->
         <scene sceneID="wvC-Kz-WYq">
             <objects>
                 <viewController title="Nine" id="uZ4-WJ-MWc" customClass="RulesViewController" sceneMemberID="viewController">
@@ -1328,7 +1328,7 @@
             </objects>
             <point key="canvasLocation" x="-131" y="-3242"/>
         </scene>
-        <!--MainMenu-->
+        <!--Main Menu - MainMenu-->
         <scene sceneID="UGQ-rv-RJI">
             <objects>
                 <viewController title="MainMenu" id="pxm-3z-zxY" customClass="MainMenu" sceneMemberID="viewController">
@@ -1453,7 +1453,7 @@
             </objects>
             <point key="canvasLocation" x="-3979" y="-3336"/>
         </scene>
-        <!--Other Apps-->
+        <!--Blog Viewer - Other Apps-->
         <scene sceneID="8a8-Ax-h2N">
             <objects>
                 <viewController title="Other Apps" id="SN5-dC-dRx" customClass="BlogViewer" sceneMemberID="viewController">
@@ -1506,9 +1506,6 @@
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4">
-            <size key="portraitSize" width="320" height="568"/>
-            <size key="landscapeSize" width="568" height="320"/>
-        </simulatedScreenMetrics>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
 </document>

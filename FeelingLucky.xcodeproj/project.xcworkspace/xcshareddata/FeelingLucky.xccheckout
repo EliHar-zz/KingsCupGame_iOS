@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>887FC458-14E2-4B6C-8C13-7D6B6C6AFF16</string>
+	<string>88415E13-6E51-42E7-BD1B-07A8CC9254DD</string>
 	<key>IDESourceControlProjectName</key>
 	<string>FeelingLucky</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DF7B2298-DB06-48AC-97B0-F0B3B8F3F782</key>
-		<string>https://bitbucket.org/elihar/kings.git</string>
+		<key>DC102ED0-1B4C-40A1-9AE8-E07F95E590FE</key>
+		<string>https://github.com/EliHar/KingsCupGame_iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>FeelingLucky.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DF7B2298-DB06-48AC-97B0-F0B3B8F3F782</key>
+		<key>DC102ED0-1B4C-40A1-9AE8-E07F95E590FE</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/elihar/kings.git</string>
+	<string>https://github.com/EliHar/KingsCupGame_iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DF7B2298-DB06-48AC-97B0-F0B3B8F3F782</string>
+	<string>DC102ED0-1B4C-40A1-9AE8-E07F95E590FE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DF7B2298-DB06-48AC-97B0-F0B3B8F3F782</string>
+			<string>DC102ED0-1B4C-40A1-9AE8-E07F95E590FE</string>
 			<key>IDESourceControlWCCName</key>
-			<string>FeelingLucky</string>
+			<string>KingsCupGame_iOS</string>
 		</dict>
 	</array>
 </dict>

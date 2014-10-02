@@ -651,7 +651,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FeelingLucky/FeelingLucky-Prefix.pch";
 				INFOPLIST_FILE = "FeelingLucky/FeelingLucky-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"/Users/elias/Downloads/GoogleAdMobAdsSdkiOS-6.8.0",
@@ -674,7 +674,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FeelingLucky/FeelingLucky-Prefix.pch";
 				INFOPLIST_FILE = "FeelingLucky/FeelingLucky-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"/Users/elias/Downloads/GoogleAdMobAdsSdkiOS-6.8.0",
